@@ -1,8 +1,8 @@
 language: php
-    sudo: false
-    cache:
-     directories: 
-    - $HOME/.composer/cache
+sudo: false
+cache:
+directories: 
+- $HOME/.composer/cache
  
 php:
   - 5.6 
