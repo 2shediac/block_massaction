@@ -10,7 +10,7 @@ php:
 env:
  global:
   - DB=mysqli
-  - MOODLE_BRANCH=MOODLE_3.0_STABLE
+  - MOODLE_BRANCH=MOODLE_30_STABLE
 
 
 before_install:
